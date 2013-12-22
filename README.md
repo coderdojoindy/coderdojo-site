@@ -3,6 +3,8 @@ coderdojo-site
 
 coderdojoindy.org
 
+See issues for suggestions. And please, let's work together on this. :)
+
 Right now, there's just a couple of simple pages created by two of our dojo members that touch on what technologies we use, where we meet, and a link to the Eventbrite page.
 
 Next steps:
