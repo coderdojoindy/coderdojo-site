@@ -9,6 +9,6 @@ Next steps:
 
 - [ ] link to zen for sign ups
 - [ ] showcase of recent work
-- [ ] general about info for parents, members, and volunteers
+- [x] general about info for parents, members, and volunteers
 - [ ] link to Google Group / other discussion board
 - [ ] Deploy it somewhere
